@@ -15,11 +15,11 @@ required to be arranged alphabetically in racks before the inauguration. The tas
 
 8. Given two arrays weight[] and profit[] the weights and profit of N items, we need to put these items in a knapsack of capacity W to get the maximum total value in the knapsack. Write a program to implement fractional Knapsack problem.
 
-Q9. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
+9. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
 
-Q10. Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order.
+10. Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain duplicate subsets. Return the solution in any order.
 
-Q11. Given the dimension of a sequence of matrices in an array arr[], where the dimension of the ith matrix is (arr[i-1] * arr[i]), the task is to find the most efficient way to multiply these matrices together such that the total number of element multiplications is minimum.
+11. Given the dimension of a sequence of matrices in an array arr[], where the dimension of the ith matrix is (arr[i-1] * arr[i]), the task is to find the most efficient way to multiply these matrices together such that the total number of element multiplications is minimum.
 
 12. Given two strings, S1 and S2, the task is to find the length of the Longest Common Subsequence, i.e. longest subsequence present in both of the strings. Write a program to implement Longest Common Subsequences (LCS).
 
